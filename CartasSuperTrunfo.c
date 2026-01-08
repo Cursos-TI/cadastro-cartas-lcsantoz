@@ -76,7 +76,7 @@ int pontos2;
   printf("População: %d \n", populaçao1);
   printf("Área: %f \n", area1);
   printf("PIB: %f \n", pib1);
-  printf("Pontos turísticos: %d \n", pontos1);
+  printf("Pontos turísticos: %d \n\n", pontos1);
 
   //Carta 02
   printf("Carta 02 \n");
