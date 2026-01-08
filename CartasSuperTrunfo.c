@@ -69,7 +69,26 @@ int pontos2;
 
   //Exibição dos dados da cidade
   //Carta 01
+  printf("Carta 01 \n");
+  printf("Estado: %c \n", estado1);
+  printf("Código: %s \n", codigo1);
+  printf("Cidade: %s \n", cidade1);
+  printf("População: %d \n", populaçao1);
+  printf("Área: %f \n", area1);
+  printf("PIB: %f \n", pib1);
+  printf("Pontos turísticos: %d \n", pontos1)
+
+  //Carta 02
+  printf("Carta 02 \n");
+  printf("Estado: %c \n", estado2);
+  printf("Código: %s \n", codigo2);
+  printf("Cidade: %s \n", cidade2);
+  printf("População: %d \n", populaçao2);
+  printf("Área: %f \n", area2);
+  printf("PIB: %f \n", pib2);
+  printf("Pontos turísticos: %d \n", pontos2)
   
+
 
 
 return 0;
